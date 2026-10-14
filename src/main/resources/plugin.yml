@@ -1,6 +1,0 @@
-
-name: DeathMessageRed
-version: 1.0.0
-main: me.chatgpt.deathmessagered.DeathMessageRed
-api-version: '26.2'
-description: It colors players' names red when they die.
